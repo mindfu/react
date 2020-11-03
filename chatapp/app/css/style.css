@@ -1,0 +1,22 @@
+body{
+	margin-top:30px;
+	background: #116699;
+}
+.well {
+	background: #85c7f5;
+}
+.messageform form input {
+	background: #cee8f9;
+}
+.highlight-message {
+	/*background-color: cadetblue;*/
+	margin: 10px 0 10px 10px;
+	text-align:right !important;
+}
+
+.message {
+	text-align:left;
+}
+.time {
+	font-size: 7px;
+}
